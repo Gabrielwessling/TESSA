@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/pre_setup.unity
+    guid: 3a0d85624c350df428ef50142028acbd
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: b7c5715efd687844fbe764238e2acbb6
+  - enabled: 1
+    path: Assets/Scenes/Editor.unity
+    guid: b3015a972f7105544bc3c31b8ed374e9
+  - enabled: 1
+    path: Assets/Scenes/game_setup.unity
+    guid: 0659c3ae4bbd90648a5cdfe500844362
+  - enabled: 1
+    path: Assets/Scenes/Space In-Ship.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
